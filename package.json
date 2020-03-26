@@ -28,7 +28,7 @@
         "url": "https://github.com/wahaobi/node-stratum-pool-yescrypt-0.5.git"
     },
     "dependencies": {
-        "multi-hashing": "https://github.com/wahaobi/node-multi-hashing-yespower.git",
+        "multi-hashing": "https://github.com/ultraboby/node-multi-hashing-lyra2z330.git",
         "bitcoinjs-lib": "*",
         "bignum": "*",
         "base58-native": "*",
